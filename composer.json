@@ -1,1 +1,7 @@
-sdfsf
+{
+  "name": "roblib/roblib_custom_address_fields",
+  "description": "For matching a Student content to all Opportunity content based on the algorithm in Matching.php in a Drupal 8 site, to be combined with the Rules module.",
+  "type": "drupal-custom-module",
+  "minimum-stability": "dev",
+  "require": { }
+}
